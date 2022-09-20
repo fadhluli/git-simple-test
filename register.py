@@ -1,1 +1,2 @@
-print('this is register messag')
+print('this is register message')
+print('this is register message 2')
